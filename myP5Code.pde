@@ -12,10 +12,10 @@ setup = function(){
   drawExtraDirt(230,190);
   drawExtraDirt(110,110);
   drawExtraDirt(330,50);
-  drawMole(20,50)
-drawMole(80,200)
-drawMole(200,250)
-drawMole(300,300)
+  drawMole(200, 200)
+drawMole(70, 120)
+drawMole(300, 60)
+drawMole(297, 350)
 
 }
 
